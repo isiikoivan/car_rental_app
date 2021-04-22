@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
 title: 'okCar',
 theme: ThemeData(
   primaryColor:Colors.white,
-  accentColor:Colors.blue
+  accentColor:Colors.purple
 ),
 home: CarsOverviewScreen(),
     );

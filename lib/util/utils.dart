@@ -1,12 +1,15 @@
 import 'package:flutter/material.dart';
   const MainHeading = TextStyle(
   fontWeight: FontWeight.bold,
-  fontSize: 30);
+  fontSize: 20);
 
   const SubHeading = TextStyle(
   fontWeight: FontWeight.bold,
-  fontSize: 20);
+  fontSize: 16);
   
   const BasicHeading = TextStyle(
   fontWeight: FontWeight.bold,
-  fontSize: 15);
+  fontSize: 12);
+  const IVNS = TextStyle(
+    color: Colors.grey,
+    fontWeight: FontWeight.bold,fontSize: 20);

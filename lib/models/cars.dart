@@ -23,11 +23,11 @@ CarsList allCars = CarsList(cars: [
  CarItem(
    title:'Grey',
    price:9000, 
-   color:'Grey Lumia',
+   color:'Grey Lumia black',
    gearbox:'8',
    fuel:'8L', 
    brand:'Fire',
-   path:'lib/assets/mode12.jpg',
+   path:'lib/assets/car1.jpg',
 
   ),
 
@@ -128,7 +128,7 @@ CarsList allCars = CarsList(cars: [
    gearbox:'6',
    fuel:'6L',
    brand:'Sporter',
-   path:'lib/assets/lambogin.jpg',
+   path:'lib/assets/lombo1.jpg',
 
   ),
 
